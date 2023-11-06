@@ -1,0 +1,5 @@
+studentId,name,grade_classId,parent,joiningDate,country_code,validFrom,validTo
+1,First,1,A,2022-01-01,IN,2020-01-01,2099-12-31
+2,Second,1,B,2022-01-01,JP,2020-01-01,2099-12-31
+3,Third,2,C,2022-01-01,IN,2020-01-01,2099-12-31
+4,Fourth,2,D,2021-01-01,US,2020-01-01,2099-12-31
